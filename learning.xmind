@@ -1,0 +1,58 @@
+学习CVaR与ES的思维导图结构
+风险管理基础
+风险度量概念
+价值atr风险(VaR)
+风险管理原则
+风险类型
+市场风险
+信用风险
+流动性风险
+操作风险
+Conditional Value at Risk (CVaR)
+定义与解释
+CVaR概念
+CVaR vs. VaR区别
+计算方法
+连续分布的CVaR
+离散分布的CVaR
+应用场景
+投资组合优化
+风险预算分配
+实践案例分析
+基于历史数据的CVaR计算实例
+CVaR在衍生品定价中的应用
+Expected Shortfall (ES)
+定义与特征
+ES概念理解
+ES作为风险度量的优势
+计算过程
+理论基础
+实际操作步骤
+相关理论与模型
+Tail Conditional Expectation (TCE)
+Coherent Risk Measures
+应用拓展
+银行业监管与资本要求
+保险业风险评估
+编程实践
+Python工具介绍
+Numpy & Pandas基础
+SciPy统计功能
+专用金融库（如pyfolio）
+CVaR/ES计算示例
+使用Python实现CVaR计算
+ES计算代码实现
+数据处理与模拟
+历史数据准备
+蒙特卡洛模拟应用
+高级主题与研究
+非参数方法与机器学习应用
+多期CVaR与动态风险度量
+CVaR在金融科技与算法交易中的应用
+CVaR与ES在可持续投资中的考量
+参考资料与学习资源
+经典书籍推荐
+学术论文精选
+在线课程与教程
+行业报告与博客文章
+通过这样的结构，你可以系统地展开学习计划，从基础知识开始逐步深入到理论与实践的各个层面。希望这能帮助你高效地掌握CVaR和ES在金融风险管理中的应用。
